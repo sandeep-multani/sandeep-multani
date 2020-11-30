@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [.NET Core](https://dotnet.microsoft.com/), [React](https://reactjs.org/) and [Azure](https://azure.microsoft.com/)
-- 🌱 I’m currently learning [Go](https://golang.org/) and [React](https://reactjs.org/)
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sandeep-multani/)
+- I’m currently working on [.NET Core](https://dotnet.microsoft.com/), [React](https://reactjs.org/) and [Azure](https://azure.microsoft.com/)
+- I’m currently learning [Go](https://golang.org/) and [React](https://reactjs.org/)
+- Reach me on [LinkedIn](https://www.linkedin.com/in/sandeep-multani/)
+- [Find more about me] (https://about.me/sandeepmultani)
 
 <!--
 **SandeepMultani/SandeepMultani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
