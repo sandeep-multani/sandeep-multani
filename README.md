@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I’m currently working on [.NET Core](https://dotnet.microsoft.com/), [React](https://reactjs.org/) and [Azure](https://azure.microsoft.com/)
-- I’m currently learning [Go](https://golang.org/) and [React](https://reactjs.org/)
+- I’m currently working on [.NET Core](https://dotnet.microsoft.com/), [Go](https://golang.org/) and [AWS](https://aws.amazon.com/)
+- I’m currently learning AI/ML
 - Reach me on [LinkedIn](https://www.linkedin.com/in/sandeep-multani/)
 - [Find more about me](https://about.me/sandeepmultani)
 
